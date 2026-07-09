@@ -4,13 +4,13 @@ I test LLM applications the way an adversary would—probing for prompt injectio
 The One-Line Why:
 My resume lists my academic coursework and tools, but it cannot visually demonstrate the threat-modeling scenarios, adversarial text prompts, and vulnerability documentation I use to evaluate an AI system's safety before deployment.
 
-### 🗺️ Portfolio Sitemap Diagram
+### Portfolio Sitemap Diagram
 ![Sitemap](./Screenshot3.png)
 
-### ⚙️ Claude Project Configuration
+### Claude Project Configuration
 ![Project Settings](./Screenshot1.png)
 
-### 🧪 Claude Pressure-Test Chat
+### Claude Pressure-Test Chat
 ![Pressure Test](./Screenshot2.png)
 
 
