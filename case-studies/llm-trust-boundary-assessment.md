@@ -3,7 +3,7 @@
 **Target System:** Automated Analyst Assistant (Claude 3.5 Sonnet)  
 **Vulnerability Focus:** OWASP LLM07:2025 (System Prompt Leakage & Direct Prompt Injection)  
 **Assessment Date:** July 2026  
-**Author:** Samuel Lee (Backend AI Security Intern)
+**Author:** Samuel Lee 
 
 ---
 
